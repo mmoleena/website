@@ -1,0 +1,19 @@
+details { 
+     color: white; 
+     background-color : #B8860B; 
+     background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(../dark.jpg);
+     width: 100%; 
+     text-align:center; 
+} 
+ heading { 
+     color: #fff; 
+     font-size : 40px; 
+     background-color : #D2691E; 
+} 
+ heading, title, chef, publisher, price { 
+     display : block; 
+} 
+ title { 
+     font-size : 25px; 
+     font-weight : bold; 
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Contact</title>
+    <link rel="stylesheet" type="text/css" href="contact.css">
+	<script src="scripts.js"></script>
+</head>
+<body>
+	<header>
+		<div class="main">
+			<ul>
+				<li><a href="../index.html">Home</a></li>
+				<li><a href="../about.html">About</a></li>
+				<li><a href="../chef.html">Chef</a></li>
+				<li><a href="../menu.html">Menu</a></li>
+			</ul>
+		</div>
+
+<div class="wrapper">
+  <h2>Write to us</h2>
+  <div id="error_message"></div>
+  <form id="myform" onsubmit="return validate();" action="connect.php" method="post">
+    <div class="input_field">
+        <input type="text" placeholder="Full Name" id="name" name="Name">
+    </div>
+    <div class="input_field">
+        <input type="text" placeholder="City" id="subject" name="City">
+    </div>
+    <div class="input_field">
+        <input type="text" placeholder="Mobile Number" id="phone" name="Number">
+    </div>
+    <div class="input_field">
+        <input type="text" placeholder="Email" id="email" name="Email">
+    </div>
+    <div class="input_field">
+        <textarea placeholder="Feedback" id="message" name="Feedback"></textarea>
+    </div>
+    <div class="btn">
+        <input type="submit">
+    </div>
+  </form>
+</div>
+</header>
+</body>
+</html>

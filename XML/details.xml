@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="Rule.css"?> 
+<details> 
+    <center>
+    <heading>Welcome To Eatery</heading> 
+    <detail> 
+        <title>Food Item: Nachos</title> 
+        <chef>Chef: Gordon Ramsay</chef> 
+        <publisher>Recipe on: Food Insider</publisher> 
+        <price> Price -: 550</price> 
+    </detail> 
+    <detail> 
+        <title>Food Item: Fajitas</title> 
+        <chef>Chef: Alain Ducasse</chef> 
+        <publisher>Recipe on: Epicurious</publisher> 
+        <price> Price -: 450</price> 
+    </detail> 
+    <detail> 
+        <title>Food Item: Som Tum</title> 
+        <chef>Chef: Martin Berasategui </chef> 
+        <publisher>Recipe on: Food Republic</publisher> 
+        <price> Price -: 650</price>  
+    </detail> 
+    <detail> 
+        <title>Food Item:  Pad Krapow Moo Saap</title> 
+        <chef>Chef: Yoshihiro Murata</chef> 
+        <publisher>Recipe on: Yummly</publisher> 
+        <price> Price -: 820</price>  
+    </detail> 
+    <detail> 
+        <title>Food Item: Queso</title> 
+        <chef>Chef: Jordi Cruz</chef> 
+        <publisher>Recipe on: Culinaria</publisher> 
+        <price> Price -: 700</price>  
+    </detail>
+    </center> 
+</details>
